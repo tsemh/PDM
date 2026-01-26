@@ -1,4 +1,4 @@
-# PDM
+# PDM (Personal Decisions Machine)
 A project designed to solve the financial problems of people who have difficulties with their money.
 
 # Target Audience
@@ -17,3 +17,15 @@ A project designed to solve the financial problems of people who have difficulti
 - The true impact installments payments today
 - installments payments Simulating
 - Personal Score
+
+# Functional requirements
+# Non-Functional requirements
+# Data modeling
+![data modeling of database](./readme/assets/modeling.png)
+# Screen Flow
+# Prototype
+# Formulas
+# APIS
+# Tools
+# Lenguages
+# Database 
