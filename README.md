@@ -20,6 +20,7 @@ A project designed to solve the financial problems of people who have difficulti
 
 # Functional requirements
 # Non-Functional requirements
+![non-functional requirements](./readme/assets/nonFunctional_requirements.png)
 # Data modeling
 ![data modeling of database](./readme/assets/modeling.png)
 # Screen Flow
